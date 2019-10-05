@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import ipdb
-
+import sqlite3
 
 
 def RepresentsInt(s):

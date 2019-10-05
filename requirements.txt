@@ -1,0 +1,7 @@
+numpy
+sklearn
+scikit-plot
+matplotlib
+requests
+bs4
+lxml
